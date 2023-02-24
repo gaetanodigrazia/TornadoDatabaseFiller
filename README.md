@@ -19,11 +19,15 @@ Adding the dependency to the pom
 
 ### Second step
 Add the code below to your RestController class
+```
 @GetMapping(value ="/fill")
   public void fillDatabase(){
     userService.fillDatabase();
 }
+```
 
 ### Final step
 You can now digit:
+```
 	localhost:8080/your/path/to/the/controller/fill
+```
