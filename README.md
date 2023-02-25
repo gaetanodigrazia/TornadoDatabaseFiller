@@ -13,7 +13,7 @@ Adding the dependency to the pom
          <artifactId>tornado-database-filler</artifactId>
          <scope>system</scope>
          <version>0.1.0</version>
-         <systemPath>Your\Path\To\The\Jar\TornadoFilter.jar</systemPath>
+         <systemPath>Your\Path\To\The\Jar\TornadoDatabaseFiller.jar</systemPath>
 </dependency>
 ```
 
